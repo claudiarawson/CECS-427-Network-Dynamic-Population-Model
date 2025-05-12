@@ -1,1 +1,1 @@
-# CECS-427-Assignment-Network-Dynamic-Population-Model
+# CECS-427-Network-Dynamic-Population-Model
