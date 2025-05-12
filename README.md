@@ -1,4 +1,3 @@
-
 # Network Dynamic Population Model
 
 This project simulates two types of processes on a graph network: Information cascades and COVID-19 like infection spread. It provides options for visualising each day's progression and the final state of the network.
